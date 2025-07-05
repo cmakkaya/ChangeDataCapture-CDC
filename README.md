@@ -54,7 +54,7 @@ I hope they are useful to you.
 - 🌐 [LinkedIn](https://www.linkedin.com/in/cumhurakkaya/)
 - 🌐 [GitHub](https://github.com/cmakkaya/)
 - 🌐 [GitLab](https://gitlab.com/cmakkaya)
-- ✏️ [Medium Articles](https://cmakkaya.medium.com/)
+- ✏️ [Medium Articles](https://cmakkaya.medium.com/)  100+ Articles
 - ✏️ [Wordpress Articles](https://cloudplatformsanddevops.wordpress.com/)
 - 🏢 [Portfolio/Resume Page](https://portfolio.cmakkaya-awsdevops.link/)
 - 📺 [YouTube](https://www.youtube.com/channel/UCWcRIvy70tBBfrmBocDR5hA)
