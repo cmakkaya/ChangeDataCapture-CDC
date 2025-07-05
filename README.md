@@ -7,7 +7,7 @@ I will start the Debezium services, run a PostgreSQL database server with a simp
 We'll learn how to create a CDC Pipeline step by step, and most importantly, we'll put theory into practice through hands-on examples that you can apply in your own environment.
 
 ## 📗 Medium Articles Link:
-- [📝Step-by-Step A Comprehensive Tutorial: How to Back Up and Restore Kubernetes Cluster with Velero]()
+- [📝Change Data Capture (CDC) Tutorial: How to Stream PostgreSQL Changes to a Kafka Cluster in Real Time with Debezium]()
 
 
 ## Topics we will cover:
