@@ -31,7 +31,11 @@ We'll learn how to create a CDC Pipeline step by step, and most importantly, we'
 11. References
 
 ## 📗 Note: If you want to get more information and hands-on training for Kafka and Message Queues, you can read my Medium articles below. 
+
+![image](https://github.com/user-attachments/assets/ef8cf1f8-6521-4116-a241-d59c03666b04)
 - [📝 Message Queue (MQ) Systems-1: Amazon SQS (Simple Queue Service)](https://cmakkaya.medium.com/message-queue-mq-systems-1-amazon-sqs-simple-queue-service-42fb5962cf3d)
+  
+![image](https://github.com/user-attachments/assets/c43c5554-2b44-4e2f-912e-216da51b0cbe)  
 - [📝 Message Queue(MQ) Systems-2: Installing and Using Apache Kafka as an Event Streaming Platform](https://cmakkaya.medium.com/message-queue-mq-systems-2-installing-and-using-apache-kafka-as-an-event-streaming-platform-fad3e99ded85)
 
 
