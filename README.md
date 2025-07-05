@@ -30,6 +30,16 @@ We'll learn how to create a CDC Pipeline step by step, and most importantly, we'
 10. Next post: "Change Data Capture (CDC) from Azure Database for PostgreSQL Flexible Server Using Apache Kafka Cluster and Debezium for Java App"
 11. References
 
+## Hi there, <img src = "https://github.com/cmakkaya/cmakkaya/blob/main/wavehand.gif" width = "40" align="center"> Nice to see you. <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/>  
+
+✏️ Don't forget to follow [my LinkedIn account](https://www.linkedin.com/in/cumhurakkaya/) or [my Medium account](https://cmakkaya.medium.com/)  to be informed about new updates in the repository.
+
+⭐ Also, thank you for giving `stars` to my GitHub.
+
+I hope they are useful to you.
+
+🙏 I wish you growing success.
+
 ## 📗 Note: If you want to get more information and hands-on training for Kafka and Message Queues, you can read my Medium articles below. 
 
 ![image](https://github.com/user-attachments/assets/ef8cf1f8-6521-4116-a241-d59c03666b04)
@@ -39,5 +49,16 @@ We'll learn how to create a CDC Pipeline step by step, and most importantly, we'
 - [📝 Message Queue(MQ) Systems-2: Installing and Using Apache Kafka as an Event Streaming Platform](https://cmakkaya.medium.com/message-queue-mq-systems-2-installing-and-using-apache-kafka-as-an-event-streaming-platform-fad3e99ded85)
 
 
+## Connect with me 📫 You can learn more about me
 
+- 🌐 [LinkedIn](https://www.linkedin.com/in/cumhurakkaya/)
+- 🌐 [GitHub](https://github.com/cmakkaya/)
+- 🌐 [GitLab](https://gitlab.com/cmakkaya)
+- ✏️ [Medium Articles](https://cmakkaya.medium.com/)
+- ✏️ [Wordpress Articles](https://cloudplatformsanddevops.wordpress.com/)
+- 🏢 [Portfolio/Resume Page](https://portfolio.cmakkaya-awsdevops.link/)
+- 📺 [YouTube](https://www.youtube.com/channel/UCWcRIvy70tBBfrmBocDR5hA)
+
+
+### Happy clouding...
 
