@@ -29,3 +29,11 @@ We'll learn how to create a CDC Pipeline step by step, and most importantly, we'
 9. Conclusion
 10. Next post: "Change Data Capture (CDC) from Azure Database for PostgreSQL Flexible Server Using Apache Kafka Cluster and Debezium for Java App"
 11. References
+
+## 📗 Note: If you want to get more information and hands-on training for Kafka and Message Queues, you can read my Medium articles below. 
+- [📝 Message Queue (MQ) Systems-1: Amazon SQS (Simple Queue Service)](https://cmakkaya.medium.com/message-queue-mq-systems-1-amazon-sqs-simple-queue-service-42fb5962cf3d)
+- [📝 Message Queue(MQ) Systems-2: Installing and Using Apache Kafka as an Event Streaming Platform](https://cmakkaya.medium.com/message-queue-mq-systems-2-installing-and-using-apache-kafka-as-an-event-streaming-platform-fad3e99ded85)
+
+
+
+
