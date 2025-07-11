@@ -2,7 +2,7 @@
 ## Change Data Capture (CDC) Tutorial: How to Stream PostgreSQL Changes to a Kafka Cluster in Real Time with Debezium
 
 Nowadays, most applications use Change Data Capture (CDC). Whether you're tracking user activity, syncing microservices, or updating data warehouses, CDC is a key enabler for modern data architectures. You can stream real-time data changes from your database to Kafka topics for more processing with CDC. 
-I will guide you through the process of setting up Change Data Capture (CDC) with Kafka, Debezium, and Postgres on Azure Cloud. You'll learn how to capture and stream database changes to Kafka topics, monitor them via Debezium UI and Kafka UI, and verify everything with a hands-on example database. 
+I will guide you through the process of setting up Change Data Capture (CDC) with Kafka, Debezium, and Postgres on Azure Cloud. You'll learn how to capture and stream database changes to Kafka topics, monitor them via Debezium UI and Kafka UI, and verify everything with a hands-on example database. https://github.com/cmakkaya/ChangeDataCapture-CDC/blob/main/README.md
 I will start the Debezium services, run a PostgreSQL database server with a simple example database, and use Debezium to monitor and capture the database for changes. At the same time, we will monitor the processes via Kafka UI and Debezium UI. By the end of this guide, you'll have a fully functional CDC pipeline running on Azure, ideal for real-time analytics, event-driven architectures, or syncing distributed systems.
 We'll learn how to create a CDC Pipeline step by step, and most importantly, we'll put theory into practice through hands-on examples that you can apply in your own environment.
 
@@ -52,10 +52,9 @@ I hope they are useful to you.
 ## Connect with me 📫 You can learn more about me
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/cumhurakkaya/)
+- ✏️ [Medium Articles](https://cmakkaya.medium.com/)  100+ Articles
 - 🌐 [GitHub](https://github.com/cmakkaya/)
 - 🌐 [GitLab](https://gitlab.com/cmakkaya)
-- ✏️ [Medium Articles](https://cmakkaya.medium.com/)  100+ Articles
-- ✏️ [Wordpress Articles](https://cloudplatformsanddevops.wordpress.com/)
 - 🏢 [Portfolio/Resume Page](https://portfolio.cmakkaya-awsdevops.link/)
 - 📺 [YouTube](https://www.youtube.com/channel/UCWcRIvy70tBBfrmBocDR5hA)
 
