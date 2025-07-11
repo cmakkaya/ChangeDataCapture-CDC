@@ -12,13 +12,13 @@ We'll learn how to create a CDC Pipeline step by step, and most importantly, we'
 
 ## Topics we will cover:
 1. Introduction
-1.1. What is Change Data Capture (CDC)?
-1.2. Apache Kafka
-1.3. Kafka Connect
-1.6. Kafka UI
-1.5. Debezium
-1.6. Debezium UI
-1.7. PostgreSQL
+* 1.1. What is Change Data Capture (CDC)?
+* 1.2. Apache Kafka
+* 1.3. Kafka Connect
+* 1.6. Kafka UI
+* 1.5. Debezium
+* 1.6. Debezium UI
+* 1.7. PostgreSQL
 2. Setting up the CDC environment (CDC Pipeline)
 3. Creating the CDC connector
 4. Verify Connection and Functionality
